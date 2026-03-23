@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm An ChaeYeon
 
 🎓 AI / Data Science Student  
 💡 Interested in Machine Learning, Deep Learning, and AI Systems  
