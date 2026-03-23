@@ -15,7 +15,7 @@
 - PyTorch,TensorFlow.
 --- 
 ## 🔥Activities
- BITAmin (AI Club) — 16th Staff | (Jul 2025 – present)
+- BITAmin (AI Club) — 16th Staff | (Jul 2025 – present)
 ---
 ## 📫 Contact
 - Email: anecy1004@naver.com
